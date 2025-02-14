@@ -1,0 +1,7 @@
+csv data link: https://drive.google.com/uc?id=13p-box0F9kou4wE9AyeBNKMSfE767xT-&export=download
+
+- filter data that has:
+    - country = 'United States', 'Russina', 'China'
+    - Number of employees > 250 < 1000
+    - Description should contain term "food" or "clothing"
+    - write a csv file with filtered data
